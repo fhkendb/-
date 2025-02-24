@@ -23,7 +23,6 @@ class ExpenseTracker:
     - 支出趋势分析
     - 消费词云展示
     """
-
     def __init__(self, data_file: str = 'expenses.json'):
         """初始化记账系统。
 
